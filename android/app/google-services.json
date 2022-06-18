@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "467520563806",
+    "project_id": "appli-10",
+    "storage_bucket": "appli-10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467520563806:android:2bb97f3c259cbdf047a2cf",
+        "android_client_info": {
+          "package_name": "sn.alim.appli"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467520563806-u0sjbpq8fb48rbsae7frklmcunp9cdab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPsN4zThgwg5d4w5jETOHxAIuU-sdOkoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "467520563806-u0sjbpq8fb48rbsae7frklmcunp9cdab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
